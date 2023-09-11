@@ -17,3 +17,5 @@ Definitions:
 - `diff`: shows you the difference between your changes and last known git state.
     - `diff --staged`: shows you the diff of the files in the staging area.
 - `restore --staged <FILE>`: unstages <FILE> from the staging area.
+
+Here's a change by mistake...
